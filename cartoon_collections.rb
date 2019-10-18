@@ -33,7 +33,7 @@ snacks = ["crackers", "gouda", "thyme"]
     array.find do |type|
     cheese_types.include?(type)
   end 
-end
+
 find_the_cheese(array)
 end
 
