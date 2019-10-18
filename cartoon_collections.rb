@@ -34,6 +34,7 @@ snacks = ["crackers", "gouda", "thyme"]
     cheese_types.include?(type)
 find_the_cheese(array)
 end
+end
 
 
 
