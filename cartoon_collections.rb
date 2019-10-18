@@ -35,7 +35,7 @@ snacks = ["crackers", "gouda", "thyme"]
   end 
 end
 find_the_cheese(array)
-
+end
 
 
 
