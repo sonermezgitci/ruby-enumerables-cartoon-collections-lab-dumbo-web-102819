@@ -28,6 +28,7 @@ def find_the_cheese(array)
   end 
 end
 find_the_cheese(snacks)
+end
 
 
 
